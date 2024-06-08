@@ -26,7 +26,7 @@ SAP也是一样，需要先安装下面的东东。<br>
 ### 登录成功后，就是这个样子了。<br>
 ![image](https://github.com/yeren1140/sap/assets/167772975/808d99ff-1471-4b44-a764-f1e3c8a59f87)
 
-## 常用TCode{#chapter 2}
+## 常用TCode
 SPRO：定制执行项目
 SE11：ABAP字典
 ME21N：创建采购订单
