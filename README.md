@@ -29,14 +29,16 @@ SAP也是一样，需要先安装下面的东东。<br>
 </details>
 
 ## 常用TCode
-SPRO：定制执行项目
-SE11：ABAP字典
-ME21N：创建采购订单
-ME22N：变更采购订单
-ME23N：查看采购订单
-MM03：显示物料
-ME51N：创建采购申请
-ME53N：显示采购申请
-MIGO：收货
-MIRO：接收发票
+<details>
+SPRO：定制执行项目<br>
+SE11：ABAP字典<br>
+ME21N：创建采购订单<br>
+ME22N：变更采购订单<br>
+ME23N：查看采购订单<br>
+MM03：显示物料<br>
+ME51N：创建采购申请<br>
+ME53N：显示采购申请<br>
+MIGO：收货<br>
+MIRO：接收发票<br>
 BP:供应商
+</details>
