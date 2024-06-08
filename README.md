@@ -1,7 +1,7 @@
 # SAP学习笔记
 
 - [SAP开发环境的安装](#开发环境的安装)
-- [SAP的常用TCode](#常用TCode)
+- [SAP的常用TCode](#常用tcode)
 
 
 
