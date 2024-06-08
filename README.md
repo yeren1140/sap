@@ -7,6 +7,7 @@
 
 
 ## 开发环境的安装
+<details>
 今天开始记录SAP的学习情况，把学到的新知识开始在git上进行整理和分享。<br>
 学习一门计算机语言，第一部通常是从安装环境开始。比如java的jdk和eclipse。<br>
 SAP也是一样，需要先安装下面的东东。<br>
@@ -25,6 +26,7 @@ SAP也是一样，需要先安装下面的东东。<br>
 
 ### 登录成功后，就是这个样子了。<br>
 ![image](https://github.com/yeren1140/sap/assets/167772975/808d99ff-1471-4b44-a764-f1e3c8a59f87)
+</details>
 
 ## 常用TCode
 SPRO：定制执行项目
